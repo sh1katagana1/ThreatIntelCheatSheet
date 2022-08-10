@@ -1,0 +1,24 @@
+Email Threat Intel
+
+**EmailHarvester**
+------------------------
+/Email/EmailHarvester
+Description: A tool to retrieve Domain email addresses from Search Engines
+
+python3 EmailHarvester.py -d trinet.com -r bing -s results.txt
+
+-r is to exclude, Bing gave me an error the first time so i just excluded it
+
+or just use emailharvester as I installed it with PIP
+--------------------------
+
+**Holehe**
+------------------------------
+/Email/holhe
+Description: Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others.
+
+holehe dabluezpreacher@gmail.com -C
+
+-C generates a CSV file with the results
+-----------------------------------------
+
