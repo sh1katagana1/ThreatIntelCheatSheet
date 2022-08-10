@@ -1,3 +1,5 @@
+# Username Threat Intel
+
 ## Sherlock
 
 **Description:** Sherlock can be used to search usernames
