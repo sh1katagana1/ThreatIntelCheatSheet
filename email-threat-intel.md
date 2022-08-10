@@ -13,9 +13,8 @@
 
 **Description**: Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others.
 
-`holehe dabluezpreacher@gmail.com -C`
+`holehe wingnut@gmail.com -C`
 
 -C generates a CSV file with the results
-
 
 
