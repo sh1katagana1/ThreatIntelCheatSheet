@@ -17,7 +17,7 @@ Command above is running the app from docker, then searching s3, then running th
 `sudo docker run -it -v "$PWD:/pwd" trufflesecurity/trufflehog:latest s3 --bucket=http://trinet-logs.s3.amazonaws.com/`
 
 
-# h8mail
+## h8mail
 
 **Description:** A tool to parse emails against Breach Data intel feeds as well as your own local Breach Databases
 
