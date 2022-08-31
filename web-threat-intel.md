@@ -88,5 +88,5 @@ Scan for vulnerable plugins
 
 Enumerate users
 
-`wpscan --url https://www.example.com/benefits -e vp --api-token <api key> --random-user-agent --force`
+`wpscan --url https://www.example.com/benefits -e u --api-token <api key> --random-user-agent --force`
 
