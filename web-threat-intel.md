@@ -78,5 +78,15 @@ Export options
 
 `python photon.py -u "http://example.com" --export=json`
 
+## WPScan
 
+**Description** Scans Wordpress sites
+
+Scan for vulnerable plugins
+
+`wpscan --url https://www.example.com/benefits -e vp --api-token <api key> --random-user-agent --force`
+
+Enumerate users
+
+`wpscan --url https://www.example.com/benefits -e vp --api-token <api key> --random-user-agent --force`
 
