@@ -50,21 +50,27 @@ Reconnaissance Real IP address for Cloudflare Bypass.
 -b is for enabling bruteforcing
 
 To list all the basic options and switches use -h switch:
+ 
 `python sublist3r.py -h`
 
 To enumerate subdomains of specific domain:
+ 
 `python sublist3r.py -d example.com`
 
 To enumerate subdomains of specific domain and show only subdomains which have open ports 80 and 443 :
+ 
 `python sublist3r.py -d example.com -p 80,443`
 
 To enumerate subdomains of specific domain and show the results in realtime:
+ 
 `python sublist3r.py -v -d example.com`
 
 To enumerate subdomains and enable the bruteforce module:
+ 
 `python sublist3r.py -b -d example.com`
 
 To enumerate subdomains and use specific engines such Google, Yahoo and Virustotal engines
+ 
 `python sublist3r.py -e google,yahoo,virustotal -d example.com`
 
 
