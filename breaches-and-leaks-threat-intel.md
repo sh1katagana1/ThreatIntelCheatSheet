@@ -89,8 +89,8 @@ Fetch URL content (CLI + file). Target all found emails
 
 ## Breach Sites
 
-https://breached.to\
-https://cracked.to\
+https://breached.to \
+https://cracked.to \
 https://cracking.org\
 https://www.nulled.to\
 https://leakhispano.net\
