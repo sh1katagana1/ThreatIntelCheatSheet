@@ -75,5 +75,10 @@ To enumerate subdomains and use specific engines such Google, Yahoo and Virustot
 `fierce --domain wingnut.com`
 
 
-
+## theHarvester
+  **Description:** General OSINT tool on domains
+  https://github.com/laramies/theHarvester \
+  
+  Recon scan for example.com. The -d is for the domain, the -l is to limit the results, the -b is for the source you want to use. You can also do -b all to use all of the sources, but you would need API keys for some of them. The -f is to write the reults to an XML file
+  `python3 theharvester.py -d example.com -l 500 -b google -f myresults.xml`
 
