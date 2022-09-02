@@ -112,10 +112,10 @@ https://checkleaked.cc \
 https://leak-lookup.com \
 https://scatteredsecrets.com \
 https://www.hotsheet.com/inoitsu \
-http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion \
+http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion 
 
 ## Pastebin
-https://psbdmp.ws \
+https://psbdmp.ws 
 
 
 ## General Leak
@@ -125,5 +125,5 @@ https://offshoreleaks.icij.org \
 https://data.occrp.org \
 https://wikileaks.org \
 https://leakix.net \
-https://cryptome.org \
+https://cryptome.org 
 
