@@ -91,39 +91,39 @@ Fetch URL content (CLI + file). Target all found emails
 
 https://breached.to \
 https://cracked.to \
-https://cracking.org\
-https://www.nulled.to\
-https://leakhispano.net\
-https://web.archive.org/web/20190715165644/http://publicdbhost.dmca.gripe\
-https://dehashed.com\
-https://nuclearleaks.com\
-https://haveibeenpwned.com\
-https://en.wikipedia.org/wiki/List_of_data_breaches\
-https://scylla.so\
-https://intelx.io\
-https://mypwd.io\
-https://skidsearch.net\
-https://snusbase.com\
-https://leakpeek.com\
-https://leakcheck.net\
-https://ashley.cynic.al\
-https://ghostproject.fr\
-https://checkleaked.cc\
-https://leak-lookup.com\
-https://scatteredsecrets.com\
-https://www.hotsheet.com/inoitsu\
-http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion\
+https://cracking.org \
+https://www.nulled.to \
+https://leakhispano.net \
+https://web.archive.org/web/20190715165644/http://publicdbhost.dmca.gripe \
+https://dehashed.com \
+https://nuclearleaks.com \
+https://haveibeenpwned.com \
+https://en.wikipedia.org/wiki/List_of_data_breaches \
+https://scylla.so \
+https://intelx.io \
+https://mypwd.io \
+https://skidsearch.net \
+https://snusbase.com \
+https://leakpeek.com \
+https://leakcheck.net \
+https://ashley.cynic.al \
+https://ghostproject.fr \
+https://checkleaked.cc \
+https://leak-lookup.com \
+https://scatteredsecrets.com \
+https://www.hotsheet.com/inoitsu \
+http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion \
 
 ## Pastebin
-https://psbdmp.ws\
+https://psbdmp.ws \
 
 
 ## General Leak
-https://balkanleaks.eu\
-https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets\
-https://offshoreleaks.icij.org\
-https://data.occrp.org\
-https://wikileaks.org\
-https://leakix.net\
-https://cryptome.org\
+https://balkanleaks.eu \
+https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets \
+https://offshoreleaks.icij.org \
+https://data.occrp.org \
+https://wikileaks.org \
+https://leakix.net \
+https://cryptome.org \
 
