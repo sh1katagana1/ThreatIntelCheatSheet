@@ -25,8 +25,17 @@ To search for more than one user:
 `python3 maigret wingnut`
 
 ## Family Tree
+This is a good site for just general people searching
 
 https://www.familytreenow.com/
 
-This is a good site for just general people searching
+
+## Social Searcher
+This is useful for @mentions of people
+
+https://www.social-searcher.com/
+
+
+
+
 
