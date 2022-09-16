@@ -21,18 +21,6 @@ Find all Tweets mentioning an account
 @Sh1kataganai
 ```
 
-Find Tweets before a specific date
-
-```
-until:2022-01-01
-```
-
-Find Tweets after a specific date
-
-```
-since:2022-01-02
-```
-
 Find Tweets containing and exact phrase
 
 ```
