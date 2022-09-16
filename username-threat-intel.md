@@ -1,4 +1,4 @@
-# Username Threat Intel
+# Username/People Threat Intel
 
 ## Sherlock
 
