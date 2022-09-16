@@ -164,3 +164,57 @@ https://gramhir.com/
 Download any stories from Instagram accounts\
 https://storiesdown.com/
 
+
+# Reddit
+
+A good all around Reddit search\
+https://camas.unddit.com/#{%22resultSize%22:100}
+
+# Pinterest
+
+Not a tool, but rather an article on how to do OSINT on Pintrest\
+https://www.aware-online.com/en/osint-investigation-on-pinterest/
+
+# Tik Tok
+
+General search\
+https://www.osintcombine.com/tiktok-quick-search
+
+
+# Facebook
+
+Get a users Facebook ID\
+https://whopostedwhat.com/
+
+If the one above isnt working try this one\
+https://lookup-id.com/#
+
+
+# Telegram
+
+General Tip: In the IOS app, under Settings/Language, you can turn on a Translater. Then when you visit a post that is in a different language, press and hold on the post and Translate it\
+
+General search\
+https://lookup-id.com/#
+
+Programmable Google Search\
+https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1
+
+Telegram Statistics. It also has one of the best channel searches I have seen\
+https://tgstat.com/
+
+Another great Telegram search\
+https://telemetr.io/en/channels
+
+Statistics\
+https://telemetr.me/
+
+General Telegram links\
+https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
+
+
+# Pastebin
+
+https://psbdmp.ws/
+
+
