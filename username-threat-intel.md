@@ -2,7 +2,8 @@
 
 ## Sherlock
 
-**Description:** Sherlock can be used to search usernames
+**Description:** 
+Sherlock can be used to search usernames
 
 To search for only one user:
 
@@ -18,7 +19,8 @@ python3 sherlock user1 user2 user3
 
 ## UserRecon
 
-**Description:** Userrecon checks usernames against a massive list of social media sites
+**Description:** 
+Userrecon checks usernames against a massive list of social media sites
 
 ```
 ./userrecon.sh
@@ -26,7 +28,8 @@ python3 sherlock user1 user2 user3
 
 ## Maigret
 
-**Description:** collect a dossier on a person by username only, checking for accounts on a huge number of sites. This is a fork or Sherlock and produces way more content
+**Description:** 
+Collect a dossier on a person by username only, checking for accounts on a huge number of sites. This is a fork or Sherlock and produces way more content
 
 ```
 python3 maigret wingnut
@@ -92,6 +95,53 @@ Check for the user yooper, capture errors for debugging purposes
 
 ```
 python whats_my_name.py -u yooper -c social --capture_errors
+```
+
+## Blackbird
+
+https://github.com/p1ngul1n0/blackbird
+
+**Description**
+An OSINT tool to search fast for accounts by username across 574 sites.
+
+Search by username
+
+```
+python blackbird.py -u username
+```
+
+Run WebServer
+
+```
+python blackbird.py --web
+```
+Access http://127.0.0.1:9797 on the browser
+
+
+Read results file
+
+```
+python blackbird.py -f username.json
+```
+
+List supported sites
+
+```
+python blackbird.py --list-sites
+```
+
+Use proxy
+
+```
+python blackbird.py -u crash --proxy http://127.0.0.1:8080
+```
+
+Show all results
+
+By default only found accounts will be shown, however you can use the argument below to see all of them.
+
+```
+python blackbird.py -u crash --show-all
 ```
 
 
