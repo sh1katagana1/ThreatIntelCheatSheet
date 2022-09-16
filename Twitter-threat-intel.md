@@ -111,12 +111,12 @@ url:sh1katagana1.com security
 
 ## Twitter Advanced Search
 
-More granular search from twitter.com
+More granular search from twitter.com\
 https://twitter.com/search-advanced
 
 ## Foller
 
-This is a really good Twitter account investigation tool
+This is a really good Twitter account investigation tool\
 https://foller.me/
 
 ## Twitter Analytics
@@ -125,6 +125,6 @@ https://socialbearing.com/
 
 ## TwitterID
 
-You put in a username and it gives you the Twitter ID associated with that account
+You put in a username and it gives you the Twitter ID associated with that account\
 https://tweeterid.com/
 
