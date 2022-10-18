@@ -23,8 +23,9 @@ deeplink
 
 **Usage**
 First we start Tor
-
-`service tor start`
+```
+service tor start
+```
 
 Then we verify its running with:
 
