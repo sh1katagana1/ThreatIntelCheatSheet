@@ -2,4 +2,5 @@
 
 ## Vulnerabilities and Zero Days
 **ExploitAlert** https://exploitalert.com/browse-exploit.html \
-**Sick Codes** https://sick.codes/category/security/\
+**Sick Codes** https://sick.codes/category/security/ \
+**CXSecurity** https://cxsecurity.com/ \
