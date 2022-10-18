@@ -28,24 +28,29 @@ service tor start
 ```
 
 Then we verify its running with:
-
-`service tor status`
+```
+service tor status
+```
 
 Next we search for a key term using all search engines and using Tor proxy
-
-`onionsearch --proxy 127.0.0.1:9050 "Conti"`
+```
+onionsearch --proxy 127.0.0.1:9050 "Conti"
+```
 
 To request all the engines excepted "Ahmia" and "Candle" for the word "computer":
-
-`onionsearch "computer" --exclude ahmia candle`
+```
+onionsearch "computer" --exclude ahmia candle
+```
 
 To request only "Tor66", "DeepLink" and "Phobos" for the word "computer":
-
-`onionsearch "computer" --engines tor66 deeplink phobos`
+```
+onionsearch "computer" --engines tor66 deeplink phobos
+```
 
 The same as previously but limiting to 3 the number of pages to load per engine:
-
-`onionsearch "computer" --engines tor66 deeplink phobos --limit 3`
+```
+onionsearch "computer" --engines tor66 deeplink phobos --limit 3
+```
 
 
 ## Search
