@@ -103,3 +103,7 @@ fierce --domain wingnut.com
 python3 theharvester.py -d example.com -l 500 -b google -f myresults.xml
 ```
 
+## DNS Dumpster
+**Description** A free domain search tool
+ 
+https://dnsdumpster.com/
