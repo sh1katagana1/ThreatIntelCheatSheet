@@ -108,8 +108,24 @@ onionsearch "computer" --engines tor66 deeplink phobos --limit 3
 **SolidBit** http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion/login \
 **Vice Society** http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion/ \
 **SunCrypt** http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion/ \
-**Yanulang** http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion/
+**Yanulang** http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion/ \
+**Qilin** http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/ \
+**Royal** http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion/ \
+**BlackByte** http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion/ \
+**VSOP** http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion/
 
+## Miscellaneous
+
+**Anonymous Blogging** http://anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/ \
+**Board of Shame** http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion/ \
+**Dark Leak Market** http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion/ \
+**AlphaBay** http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion/ \
+**Dark Web Journal** http://tdef74zmruajphutbzuqlxzpi5btckiypgpfmug6bl235e4mn6xarvad.onion/tdwj/ \
+**Tape news** http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/ \
+**Evil Corp Marketplace** http://castlee5janmtc5h6jiorit7lzdhgfuy43po4oddgi3qpm52ljyljyyd.onion/ \
+**XSS Forum** http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/ \
+**Flashlight 2.0 News** http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/ \
+**Anonymous Hackers** http://twcd7fo4eepxznx7vajl5njkfpkz3g3z6qhynffcy3hb6n42dov2omid.onion/
 
 
 
