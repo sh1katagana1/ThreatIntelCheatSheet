@@ -104,6 +104,6 @@ python3 theharvester.py -d example.com -l 500 -b google -f myresults.xml
 ```
 
 ## DNS Dumpster
-**Description** A free domain search tool
+**Description** A free domain search tool. They even let you download an XLSX output of it
  
 https://dnsdumpster.com/
