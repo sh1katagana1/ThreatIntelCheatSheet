@@ -10,6 +10,7 @@
 **Oday Today** https://0day.today/ \
 **Debricked** https://debricked.com/vulnerability-database \
 **Github Advisories** https://github.com/advisories \
+**Online Threat Alerts** https://www.onlinethreatalerts.com/categories/latest/
 
 
 ## General Security Blogs
