@@ -111,3 +111,21 @@ https://dnsdumpster.com/
 ## HackerTarget
 I generally use this inside of theHarvester tool, but you can also directly query their API. For example:
  https://api.hackertarget.com/reversedns/?q=trinet.com
+
+ ## Censys Subdomain Finder
+ **Description**
+ This is a tool to enumerate subdomains using the Certificate Transparency logs stored by Censys. It should return any subdomain who has ever been issued a SSL certificate by a public CA.
+ 
+ https://github.com/christophetd/censys-subdomain-finder
+ 
+ Export your API Keys
+ ```
+export CENSYS_API_ID=
+ ```
+ ```
+export CENSYS_API_SECRET=
+ ```
+ Basic Usage
+ ```
+ python3 censys-subdomain-finder.py wingnut.com
+ ```
