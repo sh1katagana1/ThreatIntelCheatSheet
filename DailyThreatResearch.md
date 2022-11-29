@@ -22,6 +22,11 @@
 **Dark Reading** https://www.darkreading.com/ \
 **We Live Security** https://www.welivesecurity.com/ \
 **Infosecurity Magazine** https://www.infosecurity-magazine.com/ \
+**ATT Security Blog** https://cybersecurity.att.com/blogs \
+**Checkpoint Research** https://research.checkpoint.com \
+**CI Security** https://www.cisecurity.org/feed/advisories \
+**CISA Alerts** https://us-cert.cisa.gov \
+**Digital NHS** https://digital.nhs.uk 
 
 ## Tooling
 **Kitploit** https://www.kitploit.com/ \
