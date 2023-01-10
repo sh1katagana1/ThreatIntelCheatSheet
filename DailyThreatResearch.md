@@ -12,7 +12,8 @@
 **Github Advisories** https://github.com/advisories \
 **Online Threat Alerts** https://www.onlinethreatalerts.com/categories/latest/ \
 **Talos Intelligence** https://talosintelligence.com/vulnerability_info \
-**Zero Day Initiative** https://www.zerodayinitiative.com/advisories/published/
+**Zero Day Initiative** https://www.zerodayinitiative.com/advisories/published/ \
+**WordPress Vulnerabilities** https://patchstack.com/database/
 
 
 ## General Security Blogs
