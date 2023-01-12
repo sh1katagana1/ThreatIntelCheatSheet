@@ -16,7 +16,8 @@
 **WordPress Vulnerabilities** https://patchstack.com/database/ \
 **VulDB** https://vuldb.com/ \
 **PacketStorm** https://packetstormsecurity.com/ \
-**Full Disclosure** https://seclists.org/fulldisclosure/
+**Full Disclosure** https://seclists.org/fulldisclosure/ \
+**Vulners** https://vulners.com/search?query=viewCount:[50%20TO%20*]%20order:viewCount%20last%207%20days
 
 
 ## General Security Blogs
