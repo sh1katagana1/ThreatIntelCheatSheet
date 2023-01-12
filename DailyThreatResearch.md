@@ -14,7 +14,8 @@
 **Talos Intelligence** https://talosintelligence.com/vulnerability_info \
 **Zero Day Initiative** https://www.zerodayinitiative.com/advisories/published/ \
 **WordPress Vulnerabilities** https://patchstack.com/database/ \
-**VulDB** https://vuldb.com/
+**VulDB** https://vuldb.com/ \
+**PacketStorm** https://packetstormsecurity.com/
 
 
 ## General Security Blogs
