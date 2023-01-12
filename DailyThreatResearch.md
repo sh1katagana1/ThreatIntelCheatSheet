@@ -15,7 +15,8 @@
 **Zero Day Initiative** https://www.zerodayinitiative.com/advisories/published/ \
 **WordPress Vulnerabilities** https://patchstack.com/database/ \
 **VulDB** https://vuldb.com/ \
-**PacketStorm** https://packetstormsecurity.com/
+**PacketStorm** https://packetstormsecurity.com/ \
+**Full Disclosure** https://seclists.org/fulldisclosure/
 
 
 ## General Security Blogs
