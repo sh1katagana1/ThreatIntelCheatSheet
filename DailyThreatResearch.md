@@ -13,7 +13,8 @@
 **Online Threat Alerts** https://www.onlinethreatalerts.com/categories/latest/ \
 **Talos Intelligence** https://talosintelligence.com/vulnerability_info \
 **Zero Day Initiative** https://www.zerodayinitiative.com/advisories/published/ \
-**WordPress Vulnerabilities** https://patchstack.com/database/
+**WordPress Vulnerabilities** https://patchstack.com/database/ \
+**VulDB** https://vuldb.com/
 
 
 ## General Security Blogs
