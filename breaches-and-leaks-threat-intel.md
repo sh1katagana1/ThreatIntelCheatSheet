@@ -145,16 +145,4 @@ https://leakix.net \
 https://cryptome.org \
 https://allrdp.net
 
-## Telegram Channels
-https://t.me/BreachedDiscussion \
-https://t.me/databreach \
-https://t.me/qZann \
-https://t.me/BreachedDataBackup \
-https://t.me/UnsafeInternet \
-https://t.me/s/leaked_databases \
-https://t.me/breached_co \
-https://t.me/baseleak \
-https://t.me/DataMarketplace \
-https://t.me/snatch_news 
-
 
