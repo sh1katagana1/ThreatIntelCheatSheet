@@ -37,3 +37,7 @@
 
 ## Tooling
 **Kitploit** https://www.kitploit.com/ \
+
+
+## Forums
+**Exposed.vc** https://exposed.vc/ \
