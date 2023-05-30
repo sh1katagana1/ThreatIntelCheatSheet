@@ -17,7 +17,8 @@
 **PacketStorm** https://packetstormsecurity.com/ \
 **Full Disclosure** https://seclists.org/fulldisclosure/ \
 **Vulners** https://vulners.com/search?query=viewCount:[50%20TO%20*]%20order:viewCount%20last%207%20days \
-**Reddit NetSec** https://www.reddit.com/r/netsec/
+**Reddit NetSec** https://www.reddit.com/r/netsec/ \
+**CVE Trends** https://cvetrends.com/
 
 
 ## General Security Blogs
