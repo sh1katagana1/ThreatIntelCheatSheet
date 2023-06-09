@@ -78,3 +78,54 @@ optional arguments:
   -qs, --quickscan      Disable all mutations and second-level scans
   ```
   
+  ## CloudBrute
+  https://github.com/0xsha/CloudBrute
+  **Description** A tool to find a company (target) infrastructure, files, and apps on the top cloud providers (Amazon, Google, Microsoft, DigitalOcean, Alibaba, Vultr, Linode). The outcome is useful for bug bounty hunters, red teamers, and penetration testers alike.
+  ### Full Help
+  ```
+   ██████╗██╗      ██████╗ ██╗   ██╗██████╗ ██████╗ ██████╗ ██╗   ██╗████████╗███████╗
+██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗██║   ██║╚══██╔══╝██╔════╝
+██║     ██║     ██║   ██║██║   ██║██║  ██║██████╔╝██████╔╝██║   ██║   ██║   █████╗  
+██║     ██║     ██║   ██║██║   ██║██║  ██║██╔══██╗██╔══██╗██║   ██║   ██║   ██╔══╝  
+╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗
+ ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
+                                                V 1.0.7
+usage: CloudBrute [-h|--help] -d|--domain "<value>" -k|--keyword "<value>"
+                  -w|--wordlist "<value>" [-c|--cloud "<value>"] [-t|--threads
+                  <integer>] [-T|--timeout <integer>] [-p|--proxy "<value>"]
+                  [-a|--randomagent "<value>"] [-D|--debug] [-q|--quite]
+                  [-m|--mode "<value>"] [-o|--output "<value>"]
+                  [-C|--configFolder "<value>"]
+
+                  Awesome Cloud Enumerator
+
+Arguments:
+
+  -h  --help          Print help information
+  -d  --domain        domain
+  -k  --keyword       keyword used to generator urls
+  -w  --wordlist      path to wordlist
+  -c  --cloud         force a search, check config.yaml providers list
+  -t  --threads       number of threads. Default: 80
+  -T  --timeout       timeout per request in seconds. Default: 10
+  -p  --proxy         use proxy list
+  -a  --randomagent   user agent randomization
+  -D  --debug         show debug logs. Default: false
+  -q  --quite         suppress all output. Default: false
+  -m  --mode          storage or app. Default: storage
+  -o  --output        Output file. Default: out.txt
+  -C  --configFolder  Config path. Default: config
+
+
+```
+### Usage Case 1
+Please note -k keyword used to generate URLs, so if you want the full domain to be part of mutation, you have used it for both domain (-d) and keyword (-k) arguments
+```
+CloudBrute -d target.com -k target -m storage -t 80 -T 10 -w "./data/storage_small.txt"
+```
+### Usage Case 2
+If a cloud provider not detected or want force searching on a specific provider, you can use -c option.
+```
+CloudBrute -d target.com -k keyword -m storage -t 80 -T 10 -w -c amazon -o target_output.txt
+```
+
