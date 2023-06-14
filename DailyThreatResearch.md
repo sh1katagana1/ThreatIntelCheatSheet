@@ -24,7 +24,7 @@
 
 ## General Security Blogs
 **Bleeping Computer** https://www.bleepingcomputer.com/ \
-**Threatpost** https://threatpost.com/ \
+**Security Affairs** https://securityaffairs.com/ \
 **Naked Security** https://nakedsecurity.sophos.com/ \
 **The Hacker News** https://thehackernews.com/ \
 **Krebs on Security** https://krebsonsecurity.com/ \
