@@ -38,7 +38,7 @@
 **Digital NHS** https://digital.nhs.uk 
 
 ## Tooling
-**Kitploit** https://www.kitploit.com/ \
+**Kitploit** https://www.kitploit.com/ 
 
 
 ## Forums
