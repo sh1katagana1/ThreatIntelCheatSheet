@@ -35,7 +35,8 @@
 **Checkpoint Research** https://research.checkpoint.com \
 **CI Security** https://www.cisecurity.org/feed/advisories \
 **CISA Alerts** https://us-cert.cisa.gov \
-**Digital NHS** https://digital.nhs.uk 
+**Digital NHS** https://digital.nhs.uk \
+**The Latest Hacking News** https://latesthackingnews.com/ 
 
 ## Tooling
 **Kitploit** https://www.kitploit.com/ 
