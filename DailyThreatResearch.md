@@ -19,7 +19,8 @@
 **Vulners** https://vulners.com/search?query=viewCount:[50%20TO%20*]%20order:viewCount%20last%207%20days \
 **Reddit NetSec** https://www.reddit.com/r/netsec/ \
 **CVE Trends** https://cvetrends.com/ \
-**CVExploits** https://cvexploits.io/
+**CVExploits** https://cvexploits.io/ \
+**DateBreaches.net** https://www.databreaches.net/news/
 
 
 ## General Security Blogs
