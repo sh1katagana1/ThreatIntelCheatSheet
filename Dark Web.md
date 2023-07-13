@@ -76,6 +76,7 @@ onionsearch "computer" --engines tor66 deeplink phobos --limit 3
 ## Ransomware
 
 **RansomDB** https://www.ransom-db.com/ \
+**Ransomlook** https://www.ransomlook.io/ \
 **Ransom Watch** https://ransomwatch.telemetry.ltd/#/INDEX \
 **Ransomware Group Sites Index** http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/ \
 **Lorenz** http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/ \
