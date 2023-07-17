@@ -20,7 +20,9 @@
 **Reddit NetSec** https://www.reddit.com/r/netsec/ \
 **CVE Trends** https://cvetrends.com/ \
 **CVExploits** https://cvexploits.io/ \
-**DateBreaches.net** https://www.databreaches.net/news/
+**DateBreaches.net** https://www.databreaches.net/news/ \
+**Breach Forums** https://breachforums.vc/ \
+**Black Forums** https://blackforums.net/
 
 
 ## General Security Blogs
