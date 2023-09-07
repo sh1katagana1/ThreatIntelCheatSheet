@@ -142,4 +142,18 @@ pip install dnstwist[full]
 ```
 dnstwist --registered domain.name
 ```
+## DNSRazzle
+https://github.com/f8al/DNSrazzle \
+**Description** \
+A pure python tool for finding and comparing typo-squatting, bytesqatting, and homoglyph domains for detecting brand impersonation \
+**Install**
+```
+git clone https://github.com/f8al/DNSrazzle.git
+cd DNSrazzle
+pip3 install -r requirements.txt
+```
+**Usage**
+```
+python3 DNSrazzle.py -d [Domain Name]
+```
 
