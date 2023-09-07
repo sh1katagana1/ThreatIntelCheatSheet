@@ -52,6 +52,18 @@ The same as previously but limiting to 3 the number of pages to load per engine:
 onionsearch "computer" --engines tor66 deeplink phobos --limit 3
 ```
 
+## DarkDump
+**Description** \
+Darkdump is a simple script written in Python3.11 in which it allows users to enter a search term (query) in the command line and darkdump will pull all the deep web sites relating to that query. Darkdump2.0 is here, enjoy!
+**Install**
+```
+git clone https://github.com/josh0xA/darkdump
+cd darkdump
+python3 -m pip install -r requirements.txt
+python3 darkdump.py --help
+```
+**Usage**
+
 
 ## Search
 
