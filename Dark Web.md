@@ -54,7 +54,7 @@ onionsearch "computer" --engines tor66 deeplink phobos --limit 3
 
 ## DarkDump
 **Description** \
-Darkdump is a simple script written in Python3.11 in which it allows users to enter a search term (query) in the command line and darkdump will pull all the deep web sites relating to that query. Darkdump2.0 is here, enjoy!
+Darkdump is a simple script written in Python3.11 in which it allows users to enter a search term (query) in the command line and darkdump will pull all the deep web sites relating to that query. Darkdump2.0 is here, enjoy! \
 **Install**
 ```
 git clone https://github.com/josh0xA/darkdump
@@ -63,6 +63,34 @@ python3 -m pip install -r requirements.txt
 python3 darkdump.py --help
 ```
 **Usage**
+```
+python3 darkdump.py --query programming
+```
+```
+python3 darkdump.py --query="chat rooms"
+```
+```
+python3 darkdump.py --query hackers --amount 12
+```
+**Proxy Usage**
+```
+python3 darkdump.py --query bitcoin -p
+```
+**Help**
+```
+usage: darkdump.py [-h] [-v] [-q QUERY] [-a AMOUNT] [-p]
+
+options:
+  -h, --help            show this help message and exit
+  -v, --version         returns darkdump's version
+  -q QUERY, --query QUERY
+                        the keyword or string you want to search on the deepweb
+  -a AMOUNT, --amount AMOUNT
+                        the amount of results you want to retrieve (default: 10)
+  -p, --proxy           use darkdump proxy to increase anonymity
+
+```
+
 
 
 ## Search
