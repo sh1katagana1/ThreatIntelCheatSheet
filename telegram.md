@@ -1,5 +1,7 @@
 # Telegram
 
+To search for Telegram channels, use TGScan at [TGScan](https://tgscan.xyz/) 
+
 https://t.me/eaglecyberwashere \
 https://t.me/noname05716engchat \
 https://t.me/nn05716chat \
