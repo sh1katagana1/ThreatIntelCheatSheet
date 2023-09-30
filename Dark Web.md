@@ -172,5 +172,14 @@ options:
 **Tox Chat(seems to be the most popular messaging being used by ransomware groups)** https://tox.chat/
 
 
+## Forums
+**Blackforums** https://blackforums.net/ \
+**BlackForums2** https://blackforums.me/ \
+**Breached** http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion/ \
+**Dread** http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/ \
+**Exploit.in** https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/ \
+**Leakbase** https://leakbase.io/ \
+**Nulled** https://www.nulled.to/ \
+**XSS** http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/ \
 
 
