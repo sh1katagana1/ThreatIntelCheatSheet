@@ -9,7 +9,7 @@ The possibility that something unwanted will happen, or a person or thing that i
 Data is the raw information obtain from sources like an intel feed. Intelligence is enriching this data and forming it into something usable and relevant for your environment
 
 ## Pyramid of Pain
-The Pyramid of Pain is a conceptual model for the effective use of Cyber Threat Intelligence in threat detection operations, with a particular emphasis on increasing the adversaries' cost of operations. http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html
+The Pyramid of Pain is a conceptual model for the effective use of Cyber Threat Intelligence in threat detection operations, with a particular emphasis on increasing the adversaries' cost of operations. This simple diagram shows the relationship between the types of indicators you might use to detect an adversary's activities and how much pain it will cause them when you are able to deny those indicators to them. http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html
 
 ## Indicators of Compromise
 Indicators of Compromise (IOCs) are the digital and informational "clues" that incident responders use to detect, diagnose, halt, and remediate malicious activity in their networks.- Some examples can be IP address, File Hash, Domain, etc.
