@@ -1,6 +1,6 @@
 # Definitions
 
-In the context of Threat Intelligence is good to understand certain terminology
+In the context of Threat Intelligence, it is good to understand certain terminology
 
 ## Threat
 The possibility that something unwanted will happen, or a person or thing that is likely to cause something unwanted to happen
