@@ -22,7 +22,8 @@
 **CVExploits** https://cvexploits.io/ \
 **DateBreaches.net** https://www.databreaches.net/news/ \
 **Breach Forums** https://breachforums.vc/ \
-**Black Forums** https://blackforums.net/
+**Black Forums** https://blackforums.net/ \
+**Ransomlooker** https://cybernews.com/ransomlooker/ A good site to track the latest ransomware groups statistics \
 
 
 ## General Security Blogs
