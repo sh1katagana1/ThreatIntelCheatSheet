@@ -40,7 +40,9 @@
 **CI Security** https://www.cisecurity.org/feed/advisories \
 **CISA Alerts** https://us-cert.cisa.gov \
 **Digital NHS** https://digital.nhs.uk \
-**The Latest Hacking News** https://latesthackingnews.com/ 
+**The Latest Hacking News** https://latesthackingnews.com/ \
+**SEC-Consult** https://sec-consult.com/blog/ \
+**SOC Radar** https://socradar.io/blog/ 
 
 ## Tooling
 **Kitploit** https://www.kitploit.com/ 
