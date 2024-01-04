@@ -24,6 +24,7 @@
 **Breach Forums** https://breachforums.vc/ \
 **Black Forums** https://blackforums.net/ \
 **Ransomlooker** https://cybernews.com/ransomlooker/ A good site to track the latest ransomware groups statistics \
+**Phishy Domains** https://phishydomains.com/ This is to check domains registered in past 24 hours based on keywords
 
 
 ## General Security Blogs
