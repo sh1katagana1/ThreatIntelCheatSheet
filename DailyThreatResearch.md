@@ -1,6 +1,6 @@
 # Daily Threat Research
 
-## Vulnerabilities and Zero Days
+## Vulnerabilities and Zero Days and Research
 **ExploitAlert** https://exploitalert.com/browse-exploit.html \
 **CXSecurity** https://cxsecurity.com/ \
 **Vulnerability Lab** https://www.vulnerability-lab.com/ \
@@ -25,7 +25,9 @@
 **Black Forums** https://blackforums.net/ \
 **Ransomlooker** https://cybernews.com/ransomlooker/ A good site to track the latest ransomware groups statistics \
 **Phishy Domains** https://phishydomains.com/ This is to check domains registered in past 24 hours based on keywords \
-**Infostealers** https://www.infostealers.com/
+**Infostealers** https://www.infostealers.com/ \
+**Ransomchat** https://ransomch.at/Akira-20230606 An interesting viewer of ransomware chats with victims
+
 
 
 ## General Security Blogs
