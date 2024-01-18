@@ -170,7 +170,8 @@ options:
 **XSS Forum** http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/ \
 **Flashlight 2.0 News** http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/ \
 **Anonymous Hackers** http://twcd7fo4eepxznx7vajl5njkfpkz3g3z6qhynffcy3hb6n42dov2omid.onion/ \
-**Tox Chat(seems to be the most popular messaging being used by ransomware groups)** https://tox.chat/
+**Tox Chat(seems to be the most popular messaging being used by ransomware groups)** https://tox.chat/ \
+[Leaked Wiki](https://leaked.wiki) Seems to be a lot of pastes of things like stealer logs and stuff.
 
 
 ## Forums
