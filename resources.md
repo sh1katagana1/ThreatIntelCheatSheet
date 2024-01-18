@@ -5,4 +5,5 @@
 [Pentest Book Gitbook](https://pentestbook.six2dez.com) \
 [Trickest Reports](https://trickest.com/reports/) \
 [Vulnerable U](https://vulnu.mattjay.com) \
-[Slideshare](https://www.slideshare.net) A good place to find technical presentations.
+[Slideshare](https://www.slideshare.net) A good place to find technical presentations. \
+[Slideserve](https://www.slideserve.com) More presentations.
