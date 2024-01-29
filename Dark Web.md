@@ -116,6 +116,7 @@ options:
 ## Ransomware
 
 **RansomDB** https://www.ransom-db.com/ \
+**Ransomlook** https://www.ransomlook.io/ and excellent site that actually lists what these blogs are posting as well as screenshots of the blog page \
 **Ransomlook** https://www.ransomlook.io/ \
 **Ransom Watch** https://ransomwatch.telemetry.ltd/#/INDEX \
 **Ransomware Group Sites Index** http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/ \
