@@ -104,6 +104,15 @@ Fetch URL content (CLI + file). Target all found emails
 h8mail -u "https://pastebin.com/raw/kQ6WNKqY" "list_of_urls.txt"
 ```
 
+## ProxyNova
+This service has an online version of the COMB database that you can search directly from the site: https://www.proxynova.com/tools/comb 
+
+API Search
+```
+curl https://api.proxynova.com/comb?query=chucknorris
+```
+
+
 ## Breach Sites
 
 https://breached.to \
