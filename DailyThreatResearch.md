@@ -26,7 +26,9 @@
 **Ransomlooker** https://cybernews.com/ransomlooker/ A good site to track the latest ransomware groups statistics \
 **Phishy Domains** https://phishydomains.com/ This is to check domains registered in past 24 hours based on keywords \
 **Infostealers** https://www.infostealers.com/ \
-**Ransomchat** https://ransomch.at/Akira-20230606 An interesting viewer of ransomware chats with victims
+**Ransomchat** https://ransomch.at/Akira-20230606 An interesting viewer of ransomware chats with victims \
+**Dark Mirror** https://socradar.io/labs/darkmirror  Dark Web news \
+**CVE Crowd** https://cvecrowd.com/ Trending CVEs 
 
 
 ## CVEMAP
