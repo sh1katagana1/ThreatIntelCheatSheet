@@ -20,6 +20,7 @@ sudo docker run -it -v "$PWD:/pwd" trufflesecurity/trufflehog:latest s3 --bucket
 
 
 ## h8mail
+https://github.com/khast3x/h8mail
 
 **Description:** A tool to parse emails against Breach Data intel feeds as well as your own local Breach Databases
 
