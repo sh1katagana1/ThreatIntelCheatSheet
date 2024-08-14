@@ -160,21 +160,21 @@ options:
 **Dunghill** http://p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion/index.html
 
 ## Miscellaneous
-**Dark Mirror** https://socradar.io/labs/darkmirror \ 
-**Anonymous Blogging** http://anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/ \
-**Board of Shame** http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion/ \
-**Dark Leak Market** http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion/ \
-**AlphaBay** http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion/ \
-**Dark Web Journal** http://tdef74zmruajphutbzuqlxzpi5btckiypgpfmug6bl235e4mn6xarvad.onion/tdwj/ \
-**Tape news** http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/ \
-**Evil Corp Marketplace** http://castlee5janmtc5h6jiorit7lzdhgfuy43po4oddgi3qpm52ljyljyyd.onion/ \
-**XSS Forum** http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/ \
-**Flashlight 2.0 News** http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/ \
-**Anonymous Hackers** http://twcd7fo4eepxznx7vajl5njkfpkz3g3z6qhynffcy3hb6n42dov2omid.onion/ \
-**Tox Chat(seems to be the most popular messaging being used by ransomware groups)** https://tox.chat/ \
-**Leaked Wiki** https://leaked.wiki Seems to be a lot of pastes of things like stealer logs and stuff. \
-**Nulled Blog** nullbulge.se/blog.html Clearnet blog for a group called Nulled \
-**BreachForum Search** https://bf.based.re/ A site that you can search by Breach Forum users and view all of their posts.
+[Dark Mirror](https://socradar.io/labs/darkmirror) \ 
+[Anonymous Blogging](http://anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/) \
+[Board of Shame](http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion/) \
+[Dark Leak Market](http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion/) \
+[AlphaBay](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion/) \
+[Dark Web Journal](http://tdef74zmruajphutbzuqlxzpi5btckiypgpfmug6bl235e4mn6xarvad.onion/tdwj/) \
+[Tape news](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) \
+[Evil Corp Marketplace](http://castlee5janmtc5h6jiorit7lzdhgfuy43po4oddgi3qpm52ljyljyyd.onion/) \
+[XSS Forum](http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/) \
+[Flashlight 2.0 News](http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/) \
+[Anonymous Hackers](http://twcd7fo4eepxznx7vajl5njkfpkz3g3z6qhynffcy3hb6n42dov2omid.onion/) \
+[Tox Chat](https://tox.chat/) Seems to be the most popular messaging being used by ransomware groups \
+[Leaked Wiki](https://leaked.wiki Seems to be a lot of pastes of things like stealer logs and stuff.) \
+[Nulled Blog](nullbulge.se/blog.html Clearnet blog for a group called Nulled) \
+[BreachForum Search](https://bf.based.re/ A site that you can search by Breach Forum users and view all of their posts.)
 
 
 ## Forums
