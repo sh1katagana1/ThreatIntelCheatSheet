@@ -172,9 +172,9 @@ options:
 [Flashlight 2.0 News](http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/) \
 [Anonymous Hackers](http://twcd7fo4eepxznx7vajl5njkfpkz3g3z6qhynffcy3hb6n42dov2omid.onion/) \
 [Tox Chat](https://tox.chat/) Seems to be the most popular messaging being used by ransomware groups \
-[Leaked Wiki](https://leaked.wiki Seems to be a lot of pastes of things like stealer logs and stuff.) \
-[Nulled Blog](nullbulge.se/blog.html Clearnet blog for a group called Nulled) \
-[BreachForum Search](https://bf.based.re/ A site that you can search by Breach Forum users and view all of their posts.)
+[Leaked Wiki](https://leaked.wiki) Seems to be a lot of pastes of things like stealer logs and stuff. \
+[Nulled Blog](nullbulge.se/blog.html) Clearnet blog for a group called Nulled. \
+[BreachForum Search](https://bf.based.re/) A site that you can search by Breach Forum users and view all of their posts.
 
 
 ## Forums
