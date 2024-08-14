@@ -1,6 +1,7 @@
 # Breaches and Leaks Threat Intel
 
 ## Trufflehog
+https://github.com/trufflesecurity/trufflehog
 
 **Description:** Find leaked credentials in:
 git
