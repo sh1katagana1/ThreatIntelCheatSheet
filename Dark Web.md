@@ -160,7 +160,7 @@ options:
 **Dunghill** http://p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion/index.html
 
 ## Miscellaneous
-[Dark Mirror](https://socradar.io/labs/darkmirror) \ 
+[Dark Mirror](https://socradar.io/labs/darkmirror) \
 [Anonymous Blogging](http://anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/) \
 [Board of Shame](http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion/) \
 [Dark Leak Market](http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion/) \
