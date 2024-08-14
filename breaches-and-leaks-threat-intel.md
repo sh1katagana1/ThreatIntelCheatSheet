@@ -23,12 +23,12 @@ sudo docker run -it -v "$PWD:/pwd" trufflesecurity/trufflehog:latest s3 --bucket
 
 **Description:** A tool to parse emails against Breach Data intel feeds as well as your own local Breach Databases
 
-Generate a config file to put your API keys in
+Generate a config file to put your API keys in. It will create in the folder you run the command in, likely called h8mail_config.ini. 
 ```
-/usr/local/bin$ sudo ./h8mail --gen-config
+h8mail -g
 ```
 
-The config file is named h8mail_config.ini)
+The config file is named h8mail_config.ini) You need to pass it into your command for it to use it. Once it is generated you can add your api keys to it. Uncomment the sources you want to use.
 ```
 h8mail -t /home/sh1katagana1/my_emails -c /home/sh1katagana1/osint/h8mail/h8mail_config.ini -o /home/sh1katagana1/pwned/pwned_targets.csv
 ```
