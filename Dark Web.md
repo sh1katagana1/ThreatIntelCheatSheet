@@ -173,7 +173,8 @@ options:
 **Anonymous Hackers** http://twcd7fo4eepxznx7vajl5njkfpkz3g3z6qhynffcy3hb6n42dov2omid.onion/ \
 **Tox Chat(seems to be the most popular messaging being used by ransomware groups)** https://tox.chat/ \
 **Leaked Wiki** https://leaked.wiki Seems to be a lot of pastes of things like stealer logs and stuff. \
-**Nulled Blog** nullbulge.se/blog.html Clearnet blog for a group called Nulled,
+**Nulled Blog** nullbulge.se/blog.html Clearnet blog for a group called Nulled \
+**BreachForum Search** https://bf.based.re/ A site that you can search by Breach Forum users and view all of their posts.
 
 
 ## Forums
