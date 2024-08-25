@@ -18,4 +18,5 @@ This is a list of Intel Feeds, most of which that do have a free tier
 [Shodan](https://www.shodan.io/) General Intel \
 [URLScan](https://urlscan.io/) URL Intel \
 [Virus Total](https://www.virustotal.com/gui/home/upload) Malware Analysis \
-[Digitalside Intel Repository](https://osint.digitalside.it) Threat intel feeds
+[Digitalside Intel Repository](https://osint.digitalside.it) Threat intel feeds \
+[James Brine Intel Feeds](https://jamesbrine.com.au) General site with intel feeds.
