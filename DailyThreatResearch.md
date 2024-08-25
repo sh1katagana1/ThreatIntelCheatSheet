@@ -29,7 +29,8 @@
 **Ransomchat** https://ransomch.at/Akira-20230606 An interesting viewer of ransomware chats with victims \
 **Dark Mirror** https://socradar.io/labs/darkmirror  Dark Web news \
 **CVE Crowd** https://cvecrowd.com/ Trending CVEs \
-**ZeroDay CZ** https://www.zero-day.cz. Intel on latest zero days.
+**ZeroDay CZ** https://www.zero-day.cz. Intel on latest zero days. \
+**OSV** https://osv.dev/list. Open Source vulnerability search.
 
 
 ## CVEMAP
