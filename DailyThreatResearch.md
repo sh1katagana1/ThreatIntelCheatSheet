@@ -30,7 +30,8 @@
 **Dark Mirror** https://socradar.io/labs/darkmirror  Dark Web news \
 **CVE Crowd** https://cvecrowd.com/ Trending CVEs \
 **ZeroDay CZ** https://www.zero-day.cz. Intel on latest zero days. \
-**OSV** https://osv.dev/list. Open Source vulnerability search.
+**OSV** https://osv.dev/list. Open Source vulnerability search. \
+**In the Wild** https://inthewild.io/feed. Latest CVEs and Exploits.
 
 
 ## CVEMAP
