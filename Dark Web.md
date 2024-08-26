@@ -122,6 +122,7 @@ options:
 **Ransomwatch Feed** https://raw.githubusercontent.com/joshhighet/ransomwatch/main/posts.json \
 **RansomChat** https://ransomch.at/ A site that shows the contents of ransomware chats, like them talking to their victims \
 **RansomPosts** https://privtools.github.io/ransomposts/. Another site tracking ransomware blog posts of victims. \
+**DecryptTools** https://www.nomoreransom.org/en/decryption-tools.html Ransomware decryption tools \
 **Ransomware Group Sites Index** http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/ \
 **Lorenz** http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/ \
 **Omega** http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion/ \
