@@ -114,6 +114,8 @@ API Search
 curl https://api.proxynova.com/comb?query=chucknorris
 ```
 
+## General Links
+[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) Multiple free web based tools to check compromises.
 
 ## Breach Sites
 
