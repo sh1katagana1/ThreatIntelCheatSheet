@@ -182,7 +182,9 @@ options:
 [Nulled Blog](nullbulge.se/blog.html) Clearnet blog for a group called Nulled. \
 [BreachForum Search](https://bf.based.re/) A site that you can search by Breach Forum users and view all of their posts. \
 [DarkMirror](https://socradar.io/labs/darkmirror/) SocRadars Dark Web news blog. \
-[Tor Socks](https://github.com/dgoulet/torsocks) Torify your applications.
+[Tor Socks](https://github.com/dgoulet/torsocks) Torify your applications. \
+[TOR Exit Nodes](https://check.torproject.org/torbulkexitlist) Tor exit nodes \
+[TOR Exit Nodes 2](https://www.dan.me.uk/tornodes) Another Tor exit node list
 
 
 ## Forums
