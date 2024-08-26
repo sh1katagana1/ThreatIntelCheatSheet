@@ -157,7 +157,8 @@ options:
 **Royal** http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion/ \
 **BlackByte** http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion/ \
 **VSOP** http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion/ \
-**Dunghill** http://p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion/index.html
+**Dunghill** http://p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion/index.html \
+[Ransom Wiki](https://ransom.wiki) Check if your company or vendors were in a ransomware breach.
 
 ## Miscellaneous
 [Dark Mirror](https://socradar.io/labs/darkmirror) \
