@@ -176,7 +176,8 @@ options:
 [Leaked Wiki](https://leaked.wiki) Seems to be a lot of pastes of things like stealer logs and stuff. \
 [Nulled Blog](nullbulge.se/blog.html) Clearnet blog for a group called Nulled. \
 [BreachForum Search](https://bf.based.re/) A site that you can search by Breach Forum users and view all of their posts. \
-[DarkMirror](https://socradar.io/labs/darkmirror/) SocRadars Dark Web news blog.
+[DarkMirror](https://socradar.io/labs/darkmirror/) SocRadars Dark Web news blog. \
+[Tor Socks](https://github.com/dgoulet/torsocks) Torify your applications.
 
 
 ## Forums
