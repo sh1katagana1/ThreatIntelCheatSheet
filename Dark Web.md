@@ -119,6 +119,7 @@ options:
 **Ransomlook** https://www.ransomlook.io/ and excellent site that actually lists what these blogs are posting as well as screenshots of the blog page \
 **Ransomlook** https://www.ransomlook.io/ \
 **Ransom Watch** https://ransomwatch.telemetry.ltd/#/INDEX \
+**Ransomwatch Feed** https://raw.githubusercontent.com/joshhighet/ransomwatch/main/posts.json \
 **Ransomware Group Sites Index** http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/ \
 **Lorenz** http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/ \
 **Omega** http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion/ \
