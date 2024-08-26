@@ -33,5 +33,8 @@
 **URLHaus** https://urlhaus.abuse.ch/ URLhaus is a project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution. \
 **ThreatFox** https://threatfox.abuse.ch/browse/ An IOC Database
 
+## General Links
+[Branddb](https://branddb.wipo.int/en/similarname?sort=score%20desc&start=0&rows=30&asStructure=%7B%22boolean%22:%22AND%22,%22bricks%22:%5B%5D%7D&_=1724640141812) Intel on trademarks and brands.
+
 
 
