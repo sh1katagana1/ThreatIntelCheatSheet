@@ -115,7 +115,8 @@ curl https://api.proxynova.com/comb?query=chucknorris
 ```
 
 ## General Links
-[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) Multiple free web based tools to check compromises.
+[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) Multiple free web based tools to check compromises. \
+[Leaked Password](https://leakedpassword.com) Put a password in and it will tell you how many times its been seen in breaches.
 
 ## Breach Sites
 
