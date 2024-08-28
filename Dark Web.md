@@ -184,7 +184,8 @@ options:
 [DarkMirror](https://socradar.io/labs/darkmirror/) SocRadars Dark Web news blog. \
 [Tor Socks](https://github.com/dgoulet/torsocks) Torify your applications. \
 [TOR Exit Nodes](https://check.torproject.org/torbulkexitlist) Tor exit nodes \
-[TOR Exit Nodes 2](https://www.dan.me.uk/tornodes) Another Tor exit node list
+[TOR Exit Nodes 2](https://www.dan.me.uk/tornodes) Another Tor exit node list \
+[TorBot](https://github.com/MikeMeliz/TorCrawl.py) A Tor Crawler
 
 
 ## Forums
