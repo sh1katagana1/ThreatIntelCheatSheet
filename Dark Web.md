@@ -185,7 +185,11 @@ options:
 [Tor Socks](https://github.com/dgoulet/torsocks) Torify your applications. \
 [TOR Exit Nodes](https://check.torproject.org/torbulkexitlist) Tor exit nodes \
 [TOR Exit Nodes 2](https://www.dan.me.uk/tornodes) Another Tor exit node list \
-[TorBot](https://github.com/MikeMeliz/TorCrawl.py) A Tor Crawler
+[TorBot](https://github.com/MikeMeliz/TorCrawl.py) A Tor Crawler \
+[Darknet Dictionary](https://darkweblink.com/darknet-dictionary/) A site for information on terms used in the dark web. \
+[Tor exit node list](https://www.dan.me.uk/tornodes) List of Tor exit nodes. \
+[Dark Owl](https://www.darkowl.com/blog-content/) Dark Web blog \
+[Tor Metrics](https://metrics.torproject.org) Different Tor metrics
 
 
 ## Forums
