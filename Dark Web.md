@@ -189,7 +189,8 @@ options:
 [Darknet Dictionary](https://darkweblink.com/darknet-dictionary/) A site for information on terms used in the dark web. \
 [Tor exit node list](https://www.dan.me.uk/tornodes) List of Tor exit nodes. \
 [Dark Owl](https://www.darkowl.com/blog-content/) Dark Web blog \
-[Tor Metrics](https://metrics.torproject.org) Different Tor metrics
+[Tor Metrics](https://metrics.torproject.org) Different Tor metrics \
+[Ransomware TTPs](https://github.com/crocodyli/ThreatActors-TTPs) A good repo of TTPs and other intel about various threat actors.
 
 
 ## Forums
