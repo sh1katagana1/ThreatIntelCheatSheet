@@ -1,0 +1,208 @@
+GOAL:
+Create a python3 script that searches a telegram channel for keywords in a text file and limits the messages searched to 1000
+
+## Test 1
+Here's a Python script that searches a Telegram channel for keywords from a text file and limits the search to 1000 messages
+
+
+from telethon import TelegramClient, events
+from telethon.tl.types import InputPeerChannel
+import asyncio
+import csv
+
+# Replace these with your own API credentials
+api_id = 'YOUR_API_ID'
+api_hash = 'YOUR_API_HASH'
+phone_number = 'YOUR_PHONE_NUMBER'
+
+# Channel username or ID to search
+channel_username = 'CHANNEL_USERNAME_OR_ID'
+
+# File containing keywords
+keywords_file = 'keywords.txt'
+
+# Output CSV file
+output_file = 'search_results.csv'
+
+# Read keywords from file
+with open(keywords_file, 'r') as f:
+    keywords = [line.strip().lower() for line in f]
+
+async def main():
+    async with TelegramClient('session', api_id, api_hash) as client:
+        await client.start(phone=phone_number)
+        
+        # Get the channel entity
+        channel = await client.get_entity(channel_username)
+        
+        # Open CSV file for writing results
+        with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(['Date', 'Message', 'Keyword'])
+            
+            # Search for keywords in the last 1000 messages
+            async for message in client.iter_messages(channel, limit=1000):
+                message_text = message.text.lower() if message.text else ''
+                for keyword in keywords:
+                    if keyword in message_text:
+                        writer.writerow([message.date, message.text, keyword])
+                        break  # Move to next message after finding a match
+
+        print(f"Search complete. Results saved to {output_file}")
+
+asyncio.run(main())
+
+## Explanation:
+1. First you have to create a free Telegram app from the web Telegram page to get an AppID and an AppHash
+2. Install the required library:
+
+pip install telethon
+
+3. Replace the placeholders in the script:
+YOUR_API_ID: Your Telegram API ID.
+YOUR_API_HASH: Your Telegram API hash.
+YOUR_PHONE_NUMBER: Your Telegram account's phone number. Make sure you use the format +15555555555
+CHANNEL_USERNAME_OR_ID: The username or ID of the channel you want to search. Go to the Telegram channel and look for the @username but do not include @
+
+4. Create a text file named keywords.txt in the same directory as the script. Add one keyword per line.
+5. Run the script. It will search the last 1000 messages in the specified channel for the keywords. This can be modified to whatever you want. 
+6. The script will save the results in a CSV file named search_results.csv.
+
+This script does the following:
+
+1. Connects to the Telegram API using your credentials.
+2. Reads keywords from the keywords.txt file.
+3. Searches the last 1000 messages in the specified channel.
+4. If a keyword is found in a message, it saves the date, message text, and the matching keyword to the CSV file.
+5. The search is case-insensitive.
+
+
+## Test 2
+Next, I wanted to modify the script so that the csv file includes the search term beside the results. So if the search term was wingnut, I want to see that beside the results so I know what triggered the results. To modify the script so that the CSV file includes the search term beside the results, you can adjust the part where the CSV writer writes rows to include the keyword. Here's the updated script:
+
+
+from telethon import TelegramClient, events
+from telethon.tl.types import InputPeerChannel
+import asyncio
+import csv
+
+# Replace these with your own API credentials
+api_id = 'YOUR_API_ID'
+api_hash = 'YOUR_API_HASH'
+phone_number = 'YOUR_PHONE_NUMBER'
+
+# Channel username or ID to search
+channel_username = 'CHANNEL_USERNAME_OR_ID'
+
+# File containing keywords
+keywords_file = 'keywords.txt'
+
+# Output CSV file
+output_file = 'search_results.csv'
+
+# Read keywords from file
+with open(keywords_file, 'r') as f:
+    keywords = [line.strip().lower() for line in f]
+
+async def main():
+    async with TelegramClient('session', api_id, api_hash) as client:
+        await client.start(phone=phone_number)
+        
+        # Get the channel entity
+        channel = await client.get_entity(channel_username)
+        
+        # Open CSV file for writing results
+        with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(['Date', 'Message', 'Keyword'])
+            
+            # Search for keywords in the last 1000 messages
+            async for message in client.iter_messages(channel, limit=1000):
+                message_text = message.text.lower() if message.text else ''
+                for keyword in keywords:
+                    if keyword in message_text:
+                        writer.writerow([message.date, message.text, keyword])
+                        break  # Move to next message after finding a match
+
+        print(f"Search complete. Results saved to {output_file}")
+
+asyncio.run(main())
+
+
+## Explanation:
+1. The csv.writer now includes a third column labeled Keyword. When writing each row to the CSV file, it includes the keyword that was found in the message. This ensures that each entry in the CSV not only records the date and message but also specifies which keyword triggered the entry. This modification allows you to easily identify which keyword was matched with each message directly in your CSV output.
+
+
+## Test 3 (Final)
+I want to modify the script to search exact phrases from each line of keywords.txt. If some of my lines are a phrase, like Company A LTD, I want it to grab the phrase and not just the single word 'company', the single word 'A' and the single word 'LTD'. This will ensure that the script matches whole phrases instead of individual words. Here's the updated script:
+
+
+from telethon import TelegramClient, events
+from telethon.tl.types import InputPeerChannel
+import asyncio
+import csv
+import re
+
+# Replace these with your own API credentials
+api_id = 'YOUR_API_ID'
+api_hash = 'YOUR_API_HASH'
+phone_number = 'YOUR_PHONE_NUMBER'
+
+# Channel username or ID to search
+channel_username = 'CHANNEL_USERNAME_OR_ID'
+
+# File containing keywords/phrases
+keywords_file = 'keywords.txt'
+
+# Output CSV file
+output_file = 'search_results.csv'
+
+# Read keywords/phrases from file
+with open(keywords_file, 'r', encoding='utf-8') as f:
+    keywords = [line.strip() for line in f]
+
+async def main():
+    async with TelegramClient('session', api_id, api_hash) as client:
+        await client.start(phone=phone_number)
+        
+        # Get the channel entity
+        channel = await client.get_entity(channel_username)
+        
+        # Open CSV file for writing results
+        with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(['Date', 'Message', 'Matched Phrase'])
+            
+            # Search for keywords/phrases in the last 1000 messages
+            async for message in client.iter_messages(channel, limit=1000):
+                if message.text:
+                    for phrase in keywords:
+                        # Use regex to find whole phrase, case-insensitive
+                        if re.search(r'\b' + re.escape(phrase) + r'\b', message.text, re.IGNORECASE):
+                            writer.writerow([message.date, message.text, phrase])
+                            break  # Move to next message after finding a match
+
+        print(f"Search complete. Results saved to {output_file}")
+
+asyncio.run(main())
+
+
+## Explanation
+1. Phrase Reading: The script now reads each line from keywords.txt as a complete phrase, without converting to lowercase.
+2. We use re.search() with word boundaries (\b) to ensure we're matching whole phrases.
+3. re.escape(phrase) is used to escape any special regex characters in the phrase.
+4. The re.IGNORECASE flag makes the search case-insensitive.
+5. CSV Output: The column header for the matched term is now labeled "Matched Phrase" instead of "Keyword" to better reflect that it's matching phrases.
+6. Encoding: Added encoding='utf-8' when opening the keywords file to ensure proper handling of non-ASCII characters.
+
+## How to Use:
+In your keywords.txt file, write each phrase you want to search for on a separate line. For example:
+
+text
+exact phrase one
+Another Exact Phrase
+CASE INSENSITIVE PHRASE
+
+Run the script as before. It will now search for these exact phrases (case-insensitive) in the last 1000 messages of the specified Telegram channel. The resulting CSV file will contain matches only for the exact phrases, maintaining the original case of the matched phrase from keywords.txt.
+
+This modification ensures that the script searches for exact phrases as they appear in your keywords file, making the search more precise and aligned with your specific requirements.
