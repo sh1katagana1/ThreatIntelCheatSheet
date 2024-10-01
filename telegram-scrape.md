@@ -11,14 +11,15 @@ pip install telethon
 ```
 
 3. Replace the placeholders in the script:
+```
 YOUR_API_ID: Your Telegram API ID.
 YOUR_API_HASH: Your Telegram API hash.
 YOUR_PHONE_NUMBER: Your Telegram account's phone number. Make sure you use the format +15555555555
 CHANNEL_USERNAME_OR_ID: The username or ID of the channel you want to search. Go to the Telegram channel and look for the @username but do not include @
-
-4. Create a text file named keywords.txt in the same directory as the script. Add one keyword per line.
-5. Run the script. It will search the last 1000 messages in the specified channel for the keywords. This can be modified to whatever you want. 
-6. The script will save the results in a CSV file named search_results.csv.
+```
+5. Create a text file named keywords.txt in the same directory as the script. Add one keyword per line.
+6. Run the script. It will search the last 1000 messages in the specified channel for the keywords. This can be modified to whatever you want. 
+7. The script will save the results in a CSV file named search_results.csv.
 
 ## What is the script doing?
 1. Connects to the Telegram API using your credentials.
