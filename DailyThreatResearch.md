@@ -31,7 +31,8 @@
 **CVE Crowd** https://cvecrowd.com/ Trending CVEs \
 **ZeroDay CZ** https://www.zero-day.cz. Intel on latest zero days. \
 **OSV** https://osv.dev/list. Open Source vulnerability search. \
-**In the Wild** https://inthewild.io/feed. Latest CVEs and Exploits.
+**In the Wild** https://inthewild.io/feed. Latest CVEs and Exploits. \
+**Intel Intruder** https://intel.intruder.io/ Trending CVEs.
 
 
 ## CVEMAP
