@@ -13,7 +13,6 @@ https://blog.cloudflare.com/tag/security/ \
 https://cofense.com/blog/ \
 https://cyble.com/blog/ \
 https://www.fortinet.com/blog/threat-research \
-https://securityintelligence.com/ \
 https://blogs.infoblox.com/category/cyber-threat-intelligence/ \
 https://www.malwarebytes.com/blog/category/threat-intelligence \
 https://www.mandiant.com/resources?f%5B0%5D=layout%3Aarticle_blog \
