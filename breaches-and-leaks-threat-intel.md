@@ -115,6 +115,7 @@ curl https://api.proxynova.com/comb?query=chucknorris
 ```
 
 ## General Links
+[HaveIBeenPwned](https://haveibeenpwned.com/) The grand daddy of them all \
 [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) Multiple free web based tools to check compromises. \
 [Leaked Password](https://leakedpassword.com) Put a password in and it will tell you how many times its been seen in breaches. \
 [Library of Leaks](https://search.libraryofleaks.org/) Public documents and leaks. \
