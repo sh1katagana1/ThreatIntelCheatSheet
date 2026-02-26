@@ -12,7 +12,6 @@ https://asec.ahnlab.com/en/ \
 https://blog.cloudflare.com/tag/security/ \
 https://cofense.com/blog/ \
 https://cyble.com/blog/ \
-https://blog.eclecticiq.com/ \
 https://www.fortinet.com/blog/threat-research \
 https://securityintelligence.com/ \
 https://blogs.infoblox.com/category/cyber-threat-intelligence/ \
