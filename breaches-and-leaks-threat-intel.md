@@ -120,7 +120,8 @@ curl https://api.proxynova.com/comb?query=chucknorris
 [Leaked Password](https://leakedpassword.com) Put a password in and it will tell you how many times its been seen in breaches. \
 [Library of Leaks](https://search.libraryofleaks.org/) Public documents and leaks. \
 [Breach.vip](https://breach.vip/) All around breach details for domain, email, username, etc. \
-[LeakPeek](https://leakpeek.com/) General leak search. 
+[LeakPeek](https://leakpeek.com/) General leak search. \
+[Ashley.cynic](https://ashley.cynic.al/) Ashley Madison leak check. 
 
 ## Breach Sites
 
