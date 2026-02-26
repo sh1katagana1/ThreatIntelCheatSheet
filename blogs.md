@@ -15,7 +15,6 @@ https://cyble.com/blog/ \
 https://www.fortinet.com/blog/threat-research \
 https://blogs.infoblox.com/category/cyber-threat-intelligence/ \
 https://www.malwarebytes.com/blog/category/threat-intelligence \
-https://www.mandiant.com/resources?f%5B0%5D=layout%3Aarticle_blog \
 https://unit42.paloaltonetworks.com/#all \
 https://www.proofpoint.com/uk/blog \
 https://blog.qualys.com/vulnerabilities-threat-research \
