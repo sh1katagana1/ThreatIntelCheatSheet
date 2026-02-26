@@ -121,46 +121,11 @@ curl https://api.proxynova.com/comb?query=chucknorris
 [Library of Leaks](https://search.libraryofleaks.org/) Public documents and leaks. \
 [Breach.vip](https://breach.vip/) All around breach details for domain, email, username, etc. \
 [LeakPeek](https://leakpeek.com/) General leak search. \
-[Ashley.cynic](https://ashley.cynic.al/) Ashley Madison leak check. 
-
-## Breach Sites
-
-https://breached.to \
-https://cracked.to \
-https://cracking.org \
-https://www.nulled.to \
-https://leakhispano.net \
-https://web.archive.org/web/20190715165644/http://publicdbhost.dmca.gripe \
-https://dehashed.com \
-https://nuclearleaks.com \
-https://haveibeenpwned.com \
-https://en.wikipedia.org/wiki/List_of_data_breaches \
-https://scylla.so \
-https://intelx.io \
-https://mypwd.io \
-https://skidsearch.net \
-https://snusbase.com \
-https://leakpeek.com This is one of the better ones \
-https://leakcheck.net \
-https://ashley.cynic.al \
-https://ghostproject.fr \
-https://checkleaked.cc \
-https://leak-lookup.com \
-https://scatteredsecrets.com \
-https://www.hotsheet.com/inoitsu \
-http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion 
-
-## Pastebin
-https://psbdmp.ws 
+[Ashley.cynic](https://ashley.cynic.al/) Ashley Madison leak check. \
+[Offshore Leaks](https://offshoreleaks.icij.org/) Various document leaks. \
+[Wikileaks](https://wikileaks.org) The infamous leak site. \
+[Cryptome](https://cryptome.org/) General document leaks. 
 
 
-## General Leak
-https://balkanleaks.eu \
-https://offshoreleaks.icij.org \
-https://data.occrp.org \
-https://wikileaks.org \
-https://leakix.net \
-https://cryptome.org \
-https://allrdp.net
 
 
