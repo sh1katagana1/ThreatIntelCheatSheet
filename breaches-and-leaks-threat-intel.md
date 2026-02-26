@@ -156,7 +156,6 @@ https://psbdmp.ws
 
 ## General Leak
 https://balkanleaks.eu \
-https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets \
 https://offshoreleaks.icij.org \
 https://data.occrp.org \
 https://wikileaks.org \
