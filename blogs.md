@@ -9,7 +9,6 @@ https://www.nist.gov/blogs/cybersecurity-insights \
 https://www.hackread.com/ \
 https://blog.bushidotoken.net/ \
 https://asec.ahnlab.com/en/ \
-https://bolster.ai/tag/research \
 https://blog.cloudflare.com/tag/security/ \
 https://cofense.com/blog/ \
 https://cyble.com/blog/ \
